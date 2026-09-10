@@ -17,6 +17,10 @@ API REST em **ASP.NET Core 10 (Web API)** para um sistema financeiro básico, co
 - Verificação de Transações
 <img width="1920" height="1030" alt="2026-09-09_23h17_07" src="https://github.com/user-attachments/assets/bd623ad7-bc57-454a-838b-3262c065f3d2"/>
 
+---
+- Banco de Dados
+<img width="1920" height="1032" alt="2026-09-10_00h07_54" src="https://github.com/user-attachments/assets/88ef0e3f-ea3d-4228-b461-3c49be6785c2" />
+
 
 ## Domínio
 
