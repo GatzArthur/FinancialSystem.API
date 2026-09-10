@@ -2,6 +2,22 @@
 
 API REST em **ASP.NET Core 10 (Web API)** para um sistema financeiro básico, com **Entity Framework Core 10** e **SQL Server**.
 
+- Criação e Busca dos Clientes
+<img width="1920" height="1030" alt="2026-09-09_23h09_47" src="https://github.com/user-attachments/assets/c6a6e5a0-9e81-4ee9-ac0f-a7a60a94d4f7"/>
+
+---
+- Criação e Busca das Contas
+<img width="1920" height="1030" alt="2026-09-09_23h11_46" src="https://github.com/user-attachments/assets/3a25d099-2f2f-431d-a814-34e5b691174b"/>
+
+---
+- Depósito, Saque e Transferência
+<img width="1920" height="1030" alt="2026-09-09_23h15_27" src="https://github.com/user-attachments/assets/649fe814-49fb-4575-8c5f-50e99bb8624f"/>
+
+---
+- Verificação de Transações
+<img width="1920" height="1030" alt="2026-09-09_23h17_07" src="https://github.com/user-attachments/assets/bd623ad7-bc57-454a-838b-3262c065f3d2"/>
+
+
 ## Domínio
 
 - **Cliente**: dados cadastrais (nome, CPF, e-mail, telefone).
