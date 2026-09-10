@@ -145,7 +145,7 @@ POST /api/contas/transferencia
 - Validações de negócio: saldo insuficiente, conta inativa, CPF/e-mail/número de conta duplicados, exclusão bloqueada quando há saldo.
 - DTOs separam o modelo de domínio do que é exposto pela API (evita over-posting e vazamento de dados internos).
 
-## Próximos passos sugeridos
+## Próximos passos
 
 - Autenticação/Autorização (JWT).
 - Paginação nas listagens.
